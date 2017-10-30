@@ -1,0 +1,95 @@
+body {
+  background: url('https://static.pexels.com/photos/5230/road-fog-foggy-mist.jpg')
+      no-repeat center center fixed;
+  }
+table.header {
+	width: 100%;
+}
+table.tb {
+	width: 100%;
+  	background: rgba(100,255,255,0.3);
+
+}
+h2.teks-judul {
+	color: white;
+	font-family: 'Montserrat', arial;
+	text-align: center;
+	text-shadow: 2px 5px gray;
+}
+h3.teks-judul {
+	color: black;
+	font-family: 'Montserrat', arial;
+	text-align: center;
+}
+p.teks-konten {
+	font-family: 'Georgia';
+	text-align: center;
+	color: white;
+}
+p.teks-konten2 {
+	font-family: 'Georgia';
+	text-align: justify;
+	color: white;
+}
+p.teks-konten3 {
+	font-family: 'Georgia';
+	text-align: justify;
+	color: black;
+}
+p.teks-footer {
+  background: rgba(244,255,160,0.2);
+	font-family: 'Montserrat';
+	text-align: center;
+	color: white;
+		padding-bottom: 30px;
+}
+a {
+	color: white;
+	font-family: 'Montserrat';
+	font-weight: 300;
+}
+tr {
+	width: 100%;
+}
+#Home {
+  font-family: 'Georgia';
+	background: rgba(244,255,160,0.1);
+	width: 100%;
+	align-items: center;
+	padding: 5px;
+}
+#Contact {
+	background: rgba(255,255,255,0.1);
+	width: 100%;
+	display: grid;
+	align-items: center;
+  justify-content: center;
+	padding-bottom: 70px;
+}
+#About {
+  font-family: 'Georgia';
+	background: rgba(255,255,100,0.1);
+	width: 100%;
+	display: grid;
+	align-items: center;
+  justify-content: center;
+	padding-bottom: 70px;
+}
+#Tour {
+  font-family: 'Georgia';
+	background: rgba(255,255,255,0.1);
+	width: 100%;
+	display: grid;
+	align-items: center;
+  justify-content: center;
+	padding-bottom: 70px;
+}
+#Pariwisata {
+  font-family: 'Georgia';
+	background: rgba(100,255,255,0.2);
+	width: 100%;
+	display: grid;
+	align-items: center;
+  justify-content: center;
+	padding-bottom: 5px;
+}
